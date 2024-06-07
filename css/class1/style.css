@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    color: brown;
+}
+body {
+    height: 100vh;
+    font-family:
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    width: 300px;
+    border: 5px solid white;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+button a {
+    font-size:30px
+
+}
